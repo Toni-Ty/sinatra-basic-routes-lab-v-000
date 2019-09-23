@@ -7,3 +7,12 @@ get '/name' do
   "My name is _"
   end
 end
+
+get '/hometown' do
+  "My hometown is Charlottesville"
+end
+
+get '/favorite-song' do
+  "My favorite song is Shake It Off"
+end
+end
